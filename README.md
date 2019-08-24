@@ -31,7 +31,7 @@ The following are the files available in this repository:
 
 ## Results <a name="results"></a>
 
-The main findings of the code can be found in the Results section at the post available [here](https://medium.com/@giustino.anthony/capstone-project-optimizing-starbucks-app-offers-ae079502e36f).
+ The Results section at the post available [here](https://medium.com/@s.almajed96/starbucks-capstone-challenge-339ee94b659d?sk=509f3caf632261c863bdf2251e3a5b6b.
 
 
 
