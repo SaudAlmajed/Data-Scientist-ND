@@ -37,4 +37,4 @@ The main findings of the code can be found in the Results section at the post av
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Thank you to Udacity and Starbucks for the data. Feel free to use the code here as you would like!
+Thank you to Udacity and Starbucks for the data.
